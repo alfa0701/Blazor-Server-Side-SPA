@@ -7,5 +7,3 @@ We will be using Visual Studio 2017 and SQL Server 2017 for our demo.
 Take a look at the final application
 
 ![Alt Text](https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2018/08/ServerSide.gif)
-# Read the full article at
-http://ankitsharmablogs.com/single-page-application-using-server-side-blazor/
